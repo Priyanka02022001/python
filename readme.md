@@ -1,6 +1,4 @@
-Certainly! Here's a neat description of the calculator project in Markdown:
 
-```markdown
 # Simple Python Calculator
 
 This Python program is a simple calculator that performs basic arithmetic operations: addition, subtraction, multiplication, and division. It provides a user-friendly interface for input and displays the result of the selected operation.
